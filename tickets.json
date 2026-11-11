@@ -1,0 +1,418 @@
+[
+  {
+    "id": "TKT-0001",
+    "title": "Question about my subscription",
+    "category": "billing",
+    "status": "closed",
+    "created_at": "2026-09-13",
+    "description": "I would like help reviewing a payment on my account."
+  },
+  {
+    "id": "TKT-0002",
+    "title": "Support additional language",
+    "category": "feature request",
+    "status": "open",
+    "created_at": "2026-10-16",
+    "description": "Please consider adding this capability in a future update."
+  },
+  {
+    "id": "TKT-0003",
+    "title": "Add dark mode",
+    "category": "feature request",
+    "status": "closed",
+    "created_at": "2026-09-16",
+    "description": "Please consider adding this capability in a future update."
+  },
+  {
+    "id": "TKT-0004",
+    "title": "Allow exporting reports",
+    "category": "feature request",
+    "status": "closed",
+    "created_at": "2026-10-15",
+    "description": "This option would make my regular workflow easier."
+  },
+  {
+    "id": "TKT-0005",
+    "title": "Support additional language",
+    "category": "feature request",
+    "status": "open",
+    "created_at": "2026-10-11",
+    "description": "Please consider adding this capability in a future update."
+  },
+  {
+    "id": "TKT-0006",
+    "title": "Unexpected charge on invoice",
+    "category": "billing",
+    "status": "open",
+    "created_at": "2026-10-15",
+    "description": "I would like help reviewing a payment on my account."
+  },
+  {
+    "id": "TKT-0007",
+    "title": "Password reset link not working",
+    "category": "login",
+    "status": "closed",
+    "created_at": "2026-09-21",
+    "description": "The sign-in process stops before opening my account."
+  },
+  {
+    "id": "TKT-0008",
+    "title": "Account locked after login attempts",
+    "category": "login",
+    "status": "closed",
+    "created_at": "2026-09-16",
+    "description": "I cannot access my account with my usual credentials."
+  },
+  {
+    "id": "TKT-0009",
+    "title": "Password reset link not working",
+    "category": "login",
+    "status": "closed",
+    "created_at": "2026-11-01",
+    "description": "I need help getting back into my account."
+  },
+  {
+    "id": "TKT-0010",
+    "title": "Request for a refund",
+    "category": "billing",
+    "status": "closed",
+    "created_at": "2026-09-15",
+    "description": "I would like help reviewing a payment on my account."
+  },
+  {
+    "id": "TKT-0011",
+    "title": "Settings do not stay updated",
+    "category": "bug",
+    "status": "open",
+    "created_at": "2026-10-13",
+    "description": "I noticed this issue while using the latest version."
+  },
+  {
+    "id": "TKT-0012",
+    "title": "Password reset link not working",
+    "category": "login",
+    "status": "open",
+    "created_at": "2026-10-27",
+    "description": "The sign-in process stops before opening my account."
+  },
+  {
+    "id": "TKT-0013",
+    "title": "Unexpected charge on invoice",
+    "category": "billing",
+    "status": "open",
+    "created_at": "2026-09-14",
+    "description": "I would like help reviewing a payment on my account."
+  },
+  {
+    "id": "TKT-0014",
+    "title": "Page freezes when I save",
+    "category": "bug",
+    "status": "closed",
+    "created_at": "2026-10-15",
+    "description": "The page does not behave as expected on my device."
+  },
+  {
+    "id": "TKT-0015",
+    "title": "Unexpected charge on invoice",
+    "category": "billing",
+    "status": "closed",
+    "created_at": "2026-09-25",
+    "description": "The latest invoice includes a charge I do not recognize."
+  },
+  {
+    "id": "TKT-0016",
+    "title": "Question about my subscription",
+    "category": "billing",
+    "status": "open",
+    "created_at": "2026-11-07",
+    "description": "I would like help reviewing a payment on my account."
+  },
+  {
+    "id": "TKT-0017",
+    "title": "Request for a refund",
+    "category": "billing",
+    "status": "closed",
+    "created_at": "2026-09-17",
+    "description": "I would like help reviewing a payment on my account."
+  },
+  {
+    "id": "TKT-0018",
+    "title": "Settings do not stay updated",
+    "category": "bug",
+    "status": "closed",
+    "created_at": "2026-10-06",
+    "description": "I noticed this issue while using the latest version."
+  },
+  {
+    "id": "TKT-0019",
+    "title": "Settings do not stay updated",
+    "category": "bug",
+    "status": "closed",
+    "created_at": "2026-11-02",
+    "description": "I noticed this issue while using the latest version."
+  },
+  {
+    "id": "TKT-0020",
+    "title": "Account locked after login attempts",
+    "category": "login",
+    "status": "closed",
+    "created_at": "2026-09-19",
+    "description": "I cannot access my account with my usual credentials."
+  },
+  {
+    "id": "TKT-0021",
+    "title": "Allow exporting reports",
+    "category": "feature request",
+    "status": "closed",
+    "created_at": "2026-10-23",
+    "description": "This option would make my regular workflow easier."
+  },
+  {
+    "id": "TKT-0022",
+    "title": "Page freezes when I save",
+    "category": "bug",
+    "status": "open",
+    "created_at": "2026-10-30",
+    "description": "The page does not behave as expected on my device."
+  },
+  {
+    "id": "TKT-0023",
+    "title": "Add dark mode",
+    "category": "feature request",
+    "status": "closed",
+    "created_at": "2026-10-02",
+    "description": "This option would make my regular workflow easier."
+  },
+  {
+    "id": "TKT-0024",
+    "title": "Add dark mode",
+    "category": "feature request",
+    "status": "open",
+    "created_at": "2026-10-18",
+    "description": "Please consider adding this capability in a future update."
+  },
+  {
+    "id": "TKT-0025",
+    "title": "Request for a refund",
+    "category": "billing",
+    "status": "open",
+    "created_at": "2026-09-29",
+    "description": "Please help me understand the amount on my recent bill."
+  },
+  {
+    "id": "TKT-0026",
+    "title": "Search results are not loading",
+    "category": "bug",
+    "status": "closed",
+    "created_at": "2026-11-09",
+    "description": "The page does not behave as expected on my device."
+  },
+  {
+    "id": "TKT-0027",
+    "title": "Support additional language",
+    "category": "feature request",
+    "status": "open",
+    "created_at": "2026-10-23",
+    "description": "It would be helpful to have this choice in the product."
+  },
+  {
+    "id": "TKT-0028",
+    "title": "Settings do not stay updated",
+    "category": "bug",
+    "status": "open",
+    "created_at": "2026-10-31",
+    "description": "This behavior happens each time I try the same action."
+  },
+  {
+    "id": "TKT-0029",
+    "title": "Account locked after login attempts",
+    "category": "login",
+    "status": "closed",
+    "created_at": "2026-09-14",
+    "description": "I cannot access my account with my usual credentials."
+  },
+  {
+    "id": "TKT-0030",
+    "title": "Question about my subscription",
+    "category": "billing",
+    "status": "closed",
+    "created_at": "2026-10-23",
+    "description": "The latest invoice includes a charge I do not recognize."
+  },
+  {
+    "id": "TKT-0031",
+    "title": "Support additional language",
+    "category": "feature request",
+    "status": "closed",
+    "created_at": "2026-10-27",
+    "description": "It would be helpful to have this choice in the product."
+  },
+  {
+    "id": "TKT-0032",
+    "title": "Request for a refund",
+    "category": "billing",
+    "status": "open",
+    "created_at": "2026-09-17",
+    "description": "I would like help reviewing a payment on my account."
+  },
+  {
+    "id": "TKT-0033",
+    "title": "Page freezes when I save",
+    "category": "bug",
+    "status": "closed",
+    "created_at": "2026-10-18",
+    "description": "The page does not behave as expected on my device."
+  },
+  {
+    "id": "TKT-0034",
+    "title": "Password reset link not working",
+    "category": "login",
+    "status": "open",
+    "created_at": "2026-10-11",
+    "description": "I cannot access my account with my usual credentials."
+  },
+  {
+    "id": "TKT-0035",
+    "title": "Unable to sign in",
+    "category": "login",
+    "status": "closed",
+    "created_at": "2026-09-25",
+    "description": "I cannot access my account with my usual credentials."
+  },
+  {
+    "id": "TKT-0036",
+    "title": "Allow exporting reports",
+    "category": "feature request",
+    "status": "closed",
+    "created_at": "2026-10-04",
+    "description": "This option would make my regular workflow easier."
+  },
+  {
+    "id": "TKT-0037",
+    "title": "Question about my subscription",
+    "category": "billing",
+    "status": "closed",
+    "created_at": "2026-10-24",
+    "description": "The latest invoice includes a charge I do not recognize."
+  },
+  {
+    "id": "TKT-0038",
+    "title": "Support additional language",
+    "category": "feature request",
+    "status": "closed",
+    "created_at": "2026-10-18",
+    "description": "Please consider adding this capability in a future update."
+  },
+  {
+    "id": "TKT-0039",
+    "title": "Request for a refund",
+    "category": "billing",
+    "status": "open",
+    "created_at": "2026-10-17",
+    "description": "Please help me understand the amount on my recent bill."
+  },
+  {
+    "id": "TKT-0040",
+    "title": "Request for a refund",
+    "category": "billing",
+    "status": "open",
+    "created_at": "2026-10-02",
+    "description": "The latest invoice includes a charge I do not recognize."
+  },
+  {
+    "id": "TKT-0041",
+    "title": "Question about my subscription",
+    "category": "billing",
+    "status": "open",
+    "created_at": "2026-10-13",
+    "description": "I would like help reviewing a payment on my account."
+  },
+  {
+    "id": "TKT-0042",
+    "title": "Settings do not stay updated",
+    "category": "bug",
+    "status": "closed",
+    "created_at": "2026-10-19",
+    "description": "This behavior happens each time I try the same action."
+  },
+  {
+    "id": "TKT-0043",
+    "title": "Search results are not loading",
+    "category": "bug",
+    "status": "open",
+    "created_at": "2026-09-30",
+    "description": "This behavior happens each time I try the same action."
+  },
+  {
+    "id": "TKT-0044",
+    "title": "Search results are not loading",
+    "category": "bug",
+    "status": "open",
+    "created_at": "2026-09-15",
+    "description": "The page does not behave as expected on my device."
+  },
+  {
+    "id": "TKT-0045",
+    "title": "Unexpected charge on invoice",
+    "category": "billing",
+    "status": "closed",
+    "created_at": "2026-09-15",
+    "description": "The latest invoice includes a charge I do not recognize."
+  },
+  {
+    "id": "TKT-0046",
+    "title": "Allow exporting reports",
+    "category": "feature request",
+    "status": "closed",
+    "created_at": "2026-10-07",
+    "description": "This option would make my regular workflow easier."
+  },
+  {
+    "id": "TKT-0047",
+    "title": "Support additional language",
+    "category": "feature request",
+    "status": "closed",
+    "created_at": "2026-11-06",
+    "description": "Please consider adding this capability in a future update."
+  },
+  {
+    "id": "TKT-0048",
+    "title": "Unable to sign in",
+    "category": "login",
+    "status": "closed",
+    "created_at": "2026-11-09",
+    "description": "I cannot access my account with my usual credentials."
+  },
+  {
+    "id": "TKT-0049",
+    "title": "Account locked after login attempts",
+    "category": "login",
+    "status": "open",
+    "created_at": "2026-11-07",
+    "description": "I need help getting back into my account."
+  },
+  {
+    "id": "TKT-0050",
+    "title": "Page freezes when I save",
+    "category": "bug",
+    "status": "closed",
+    "created_at": "2026-11-03",
+    "description": "I noticed this issue while using the latest version."
+  },
+  {
+    "id": "TKT-0051",
+    "title": "Customer can't log in after password reset",
+    "category": "login",
+    "status": "open",
+    "created_at": "2026-11-11",
+    "description": "Customer cannot log in after resetting their password."
+  },
+  {
+    "id": "TKT-0052",
+    "title": "Customer can't log in after password reset",
+    "category": "login",
+    "status": "open",
+    "created_at": "2026-11-11",
+    "description": "Customer cannot log in after resetting their password."
+  }
+]
